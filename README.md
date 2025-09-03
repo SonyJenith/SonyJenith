@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! I’m currently a 3rd-year Computer Science and Engineering student with a strong passion for game development. I love to code and enjoy turning creative ideas into interactive experiences. Here on GitHub, I share my projects, experiments, and learning journeys in programming and game dev. Let’s connect, collaborate, and build something amazing!
+Hi there! I’m currently a **3rd-year Computer Science and Engineering** student with a strong passion for **game development**. I love to code and enjoy turning creative ideas into interactive experiences. Here on GitHub, I share my projects, experiments, and learning journeys in programming and game dev. Let’s connect, collaborate, and build something amazing!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sony-jenith-d-2686702b6) 
